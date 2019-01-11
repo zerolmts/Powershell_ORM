@@ -1,0 +1,4 @@
+https://osric.com/chris/accidental-developer/2016/03/querying-an-oracle-database-from-powershell/
+
+https://blogs.technet.microsoft.com/heyscriptingguy/2012/12/04/use-oracle-odp-net-and-powershell-to-simplify-data-access/
+
